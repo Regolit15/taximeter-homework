@@ -18,13 +18,6 @@ public class taxiMetre {
 
 
         System.out.print("Odemeniz Gereken Ucret : "+ ucret1);
-
-
-
-
-
-
-
-
+        
     }
 }
